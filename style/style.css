@@ -103,6 +103,9 @@ p{
     color: #fff;
     z-index: 1;
     overflow: hidden;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 2rem;
    
 }
 .navbar ul{
